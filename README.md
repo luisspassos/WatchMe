@@ -9,8 +9,8 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2306b656?style=flat-square">
   </a>
   
-  <a href="https://www.linkedin.com/in/rafaeldcmartins/">
-    <img alt="Solved by Rafael Martins" src="https://img.shields.io/badge/solved%20by-Rafael%20Martins-%2306b656?style=flat-square">
+  <a href="https://github.com/luisspassos">
+    <img alt="Solved by Luís Passos" src="https://img.shields.io/badge/solved%20by-Luis%20Passos-%2306b656?style=flat-square">
   </a>
 </p>
 
@@ -37,7 +37,7 @@ A aplicação já está totalmente funcional mas grande parte do seu código est
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/martins-rafael/watchme
+git clone https://github.com/luisspassos/watchme
 # ou use a opção de download.
 
 # Entre na pasta com 
@@ -63,7 +63,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com :purple_heart: by [Rafael Martins](https://github.com/martins-rafael)
+Feito com :purple_heart: by [Luís Passos](https://github.com/luisspassos)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins/)](https://www.linkedin.com/in/rafaeldcmartins/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafaeldcmartins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com)](mailto:rafaeldcmartins@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-luis.passos013@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis.passos013@gmail.com)](mailto:luis.passos013@gmail.com)
